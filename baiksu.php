@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>\
+<html>
     <body>
         <?php
         echo hello world! 
